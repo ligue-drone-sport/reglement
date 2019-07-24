@@ -1,13 +1,16 @@
 <!-- TOC -->
 
 - [2 formats de courses](#2-formats-de-courses)
+  - [Proposition](#proposition)
 - [Format des courses nationale](#format-des-courses-nationale)
 - [Format des courses regionale](#format-des-courses-regionale)
 - [Definition des regions](#definition-des-regions)
 - [Attribution des points pour les differents classement](#attribution-des-points-pour-les-differents-classement)
+  - [Course FFAM](#course-ffam)
+  - [Course FAI](#course-fai)
 - [Mode de selection au Championnat de France](#mode-de-selection-au-championnat-de-france)
 - [Saison de reference](#saison-de-reference)
-- [Critere pour organiser le Championnate de France](#critere-pour-organiser-le-championnate-de-france)
+- [Critere pour organiser le Championnat de France](#critere-pour-organiser-le-championnat-de-france)
 
 <!-- /TOC -->
 
@@ -17,6 +20,14 @@
 - Regionale
 
 Les courses nationales et regionales sont des courses officielles, comptant pour les criteres organisateurs pour le Championnat de France.
+
+### Proposition
+
+> Pour les courses nationales licence competition obligatoire ?
+
+> Pour les courses regionales licence loisir accepte ?
+
+> Pour participer au Championnat de France en cas de selection : Licence competition obligatoire ?
 
 ## Format des courses nationale
 
@@ -45,6 +56,8 @@ Le decoupage des indicatifs telephonique peut etre une bonne base de depart, soi
 
 ## Attribution des points pour les differents classement
 
+### Course FFAM
+
 Toutes les courses sont au minimum des courses regionale, mais celle qui respecte le cahier des charges deviennent elligible pour compter au classement national.
 
 Pour definir la zone d'attribution des points ils peuvent etre soit defini par la zone geographique de l'evenement, soit le lieu de domiciliation de l'organisme organisateur (a definir).
@@ -52,6 +65,10 @@ Pour definir la zone d'attribution des points ils peuvent etre soit defini par l
 Plus de limite à 20 points mais au nombre de pilotes présent à la course. Exemple : 32 pilotes présent, le vainqueur prend 32 pts, puis 31, 30 ainsi de suite...
 
 > Le classement de chaque course devra etre communique la federation en remplissant le fichier [template-classement.csv](fichiers/template-classement.csv).
+
+### Course FAI
+
+*Faire des propositions, sinon on reste sur le meme principe de points que les courses FFAM.*
 
 ## Mode de selection au Championnat de France
 
@@ -74,13 +91,11 @@ Exemple : Pour la saison 2020, du lundi 29 juillet 2019,  au dimanche 26 juillet
 
 - Etre un club affilie depuis la saison precedente au minimum.
 - Avoir organisé au moins 3 courses officielles.
-
 - Réglement FAI
 - 32 participants minimum
 - 65 participants maximum (cf. [mode de selection au CdF](#mode-de-selection-au-championnat-de-france))
 - Facilité d'acces en transport
 - Proche hôtellerie et restauration
 - Ouvert au public
-
 - Organiser entre septembre et octobre
 - Ouverture des inscriptions au plus tard mi-aout
