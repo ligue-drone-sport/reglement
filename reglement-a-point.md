@@ -42,11 +42,11 @@ La première manche est défini en fonction du classement de qualification.
 
 Les manches suivantes se feront en fonction des points de chaque pilote.
 
-A l'issue de chaque manche les pilotes seront classés en fonction de leur chrono, tous groupes confondu. En cas d'égalité les pilotes seront départagés par leur classement en début de manche.
+A l'issue de chaque manche les pilotes seront classés en fonction de leur chrono, tous groupes confondu. Un nombre de points leur sera alors attribué en fonction du nombre de pilote et de leur position dans le classement de cette manche. En cas d'égalité les pilotes seront départagés par leur classement en début de manche.
 
-Un nombre de points leur est alors attribué en fonction du nombre de pilote et de leur position dans le classement de cette manche.
+> Exemple : Pilote X fini 1er sur 16 pilotes, il gagne 16pts. Pilote Y fini 2éme sur 16 pilotes il gagne 15pts, et ainsi de suite.
 
->Exemple : Pilote X fini 1er sur 16 pilotes, il gagne 16pts. Pilote Y fini 2éme sur 16 pilotes il gagne 15pts, et ainsi de suite.
+> Exemple en cas d'égalité : Pilote X fini dernier exequo avec pilote Y. Si pilote X était 3ème au classment en debut de manche, et pilote Y 7ème. Le classement final pour Pilote X sera 15éme et pour Pilote Y 16éme.
 
 Ces points viennent s'additionner aux nombrex de points accumulé sur les manches précédente, et permettent une ré-attribution des pilotes dans chaque groupe en fonction de leur total de points accumulé.
 
