@@ -33,7 +33,7 @@ Les courses nationales et regionales sont des courses officielles, comptant pour
 
 > Comptant uniquement pour le classement regional.
 
--	Règlement à définir ou Course à point type mario-kart (montée -descente ou variante) mais favoriser les vols, plutot que l'elimination.
+-	[Règlement à point](reglement-a-point.md) (montée/descente) pour favoriser les vols.
 
 > Objectif : Faciliter l'acces aux pilotes "amateurs" et/ou qui ne souhaite pas se deplacer sur de longue distance. Favoriser la decouverte de la competition dans un cadre plus agreable.
 
@@ -41,7 +41,7 @@ Les courses nationales et regionales sont des courses officielles, comptant pour
 
 Le decoupage des indicatifs telephonique peut etre une bonne base de depart, soit un decoupage en 5 regions.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Carte_indicatifs_t%C3%A9l%C3%A9phoniques_fran%C3%A7ais.svg/220px-Carte_indicatifs_t%C3%A9l%C3%A9phoniques_fran%C3%A7ais.svg.png)
+![](images/decoupage-regional.png)
 
 ## Attribution des points pour les differents classement
 
@@ -50,6 +50,8 @@ Toutes les courses sont au minimum des courses regionale, mais celle qui respect
 Pour definir la zone d'attribution des points ils peuvent etre soit defini par la zone geographique de l'evenement, soit le lieu de domiciliation de l'organisme organisateur (a definir).
 
 Plus de limite à 20 points mais au nombre de pilotes présent à la course. Exemple : 32 pilotes présent, le vainqueur prend 32 pts, puis 31, 30 ainsi de suite...
+
+> Le classement de chaque course devra etre communique la federation en remplissant le fichier [template-classement.csv](fichiers/template-classement.csv).
 
 ## Mode de selection au Championnat de France
 
@@ -68,7 +70,7 @@ Du lendemain du dernier weekend de juillet annee N,  au dernier weekend, inclus 
 
 Exemple : Pour la saison 2020, du lundi 29 juillet 2019,  au dimanche 26 juillet 2020.
 
-## Critere pour organiser le Championnate de France
+## Critere pour organiser le Championnat de France
 
 - Etre un club affilie depuis la saison precedente au minimum.
 - Avoir organisé au moins 3 courses officielles.
