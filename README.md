@@ -38,6 +38,7 @@ Les courses nationales et régionales sont des courses officielles, comptant pou
 -	Respect du règlement FAI
 -	Chronométrage/Système de course homologué ? (definir un protocol d'homologation)
 - Declarer sur portail FFAM 30 jours avant le début de l'évènement.
+- Mutlirotor avec une taille d'hélice supérieur ou égale à 3 pouces.
 
 > Objectif : Harmoniser l'organisation au maximum. Favoriser la compétition. Les courses devront être clairement identifiées comme comptant pour le classement national.
 
