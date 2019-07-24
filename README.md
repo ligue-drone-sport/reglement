@@ -19,7 +19,7 @@
 - Nationale
 - Regionale
 
-Les courses nationales et regionales sont des courses officielles, comptant pour les criteres organisateurs pour le Championnat de France.
+Les courses nationales et regionales sont des courses officielles, comptant pour les [criteres organisateurs pour le Championnat de France](#critere-pour-organiser-le-championnat-de-france).
 
 ### Proposition
 
