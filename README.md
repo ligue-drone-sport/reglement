@@ -11,6 +11,7 @@
 - [Mode de selection au Championnat de France](#mode-de-selection-au-championnat-de-france)
 - [Saison de reference](#saison-de-reference)
 - [Critere pour organiser le Championnat de France](#critere-pour-organiser-le-championnat-de-france)
+- [Mode de selection pour l'equipe de France](#mode-de-selection-pour-lequipe-de-france)
 
 <!-- /TOC -->
 
@@ -99,3 +100,9 @@ Exemple : Pour la saison 2020, du lundi 29 juillet 2019,  au dimanche 26 juillet
 - Ouvert au public
 - Organiser entre septembre et octobre
 - Ouverture des inscriptions au plus tard mi-aout
+
+## Mode de selection pour l'equipe de France
+
+La selection se fait uniquement dans le classement national aupres des pilotes possedant une licence competition.
+
+Modalite a definir davantage.
