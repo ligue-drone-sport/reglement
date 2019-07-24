@@ -60,7 +60,7 @@ Le decoupage des indicatifs telephonique peut etre une bonne base de depart, soi
 
 Toutes les courses sont au minimum des courses regionale, mais celle qui respecte le cahier des charges deviennent elligible pour compter au classement national.
 
-Pour definir la zone d'attribution des points ils peuvent etre soit defini par la zone geographique de l'evenement, soit le lieu de domiciliation de l'organisme organisateur (a definir).
+La zone d'attribution des points est etabli par la zone geographique de l'evenement. Exemple : Si vous participez a une course organise a Rennes par un club Parisien, vos points seront attribués a la region Bretagne (02).
 
 Plus de limite à 20 points mais au nombre de pilotes présent à la course. Exemple : 32 pilotes présent, le vainqueur prend 32 pts, puis 31, 30 ainsi de suite...
 
