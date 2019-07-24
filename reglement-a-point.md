@@ -11,6 +11,8 @@
 
 ## Nombre de participant
 
+Aucune limite minimum et/ou maximum de participant.
+
 ## Qualification
 
 ## Competition
