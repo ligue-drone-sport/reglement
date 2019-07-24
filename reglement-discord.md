@@ -39,13 +39,17 @@ Lisez la description de chaque salon textuel avant de poster et respecter son su
 Nous sommes une communauté avec un staff de bénévole qui aime le drone, toute déferlante de haine envers un pilote, un organisateur, un organisme privé, un constructeur, un revendeur ou la FFAM elle-même est prohibée. Seule la critique constructive reste tolérée.
 
 7️⃣ Pseudonyme et Avatar sur Discord
+
 Votre pseudonyme ou votre avatar ne doivent pas contenir de caractère pornographique, ne pas tenir de propos racistes, homophobes, sexistes ou faisant référence à de la drogue. De plus ils se doivent d'être lisible.
 
 8️⃣ Le Staff
+
 Les paroles / actes d’un Admin ou d’un Modérateur sont absolues. Si vous pensez qu’un Modérateur est en tort, veuillez contacter un Administrateur en MP.
 
-SPÉCIFIQUES
+### SPÉCIFIQUES
+
 🔸 Toutes les règles s'appliquent aux messages privés, pseudo, salons vocaux et textuels...
 
 Tout comportement contraire à ces règles pourra entraîner un avertissement ou ban du discord.
+
 Si vous voyez quelque chose qui viole l'une de ces règles, s'il vous plaît veuillez contacter un admin ou un modérateur et ne pas appliquer votre justice.
