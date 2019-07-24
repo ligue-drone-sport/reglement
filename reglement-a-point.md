@@ -33,7 +33,7 @@ Le classement peut s'etablir au meilleur temps, au 2 meilleurs temps ou au 3 mei
 
 La competition est comsposee de plusieurs manches, celle-ci peuvent etre illimite.
 
-> Attention : Toute de manche commencer doit etre finie.
+> Attention : Toute manche commencée doit etre finie.
 
 Une manche se decompose en X groupe de 4 pilotes. Exemple : 16 pilotes soit 4 groupes de 4 pilotes.
 
