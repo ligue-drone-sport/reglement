@@ -1,5 +1,4 @@
 <!-- TOC -->
-# REGLEMENT
 
 - [2 formats de courses](#2-formats-de-courses)
   - [Proposition](#proposition)
@@ -8,6 +7,7 @@
 - [Définition des régions](#définition-des-régions)
 - [Attribution des points pour les différents classement](#attribution-des-points-pour-les-différents-classement)
   - [Courses FFAM](#courses-ffam)
+    - [Exemple pour une course à 32 pilotes :](#exemple-pour-une-course-à-32-pilotes-)
   - [Courses FAI](#courses-fai)
 - [Mode de sélection au Championnat de France](#mode-de-sélection-au-championnat-de-france)
 - [Saison de référence](#saison-de-référence)
@@ -66,11 +66,12 @@ Toutes les courses sont au minimum des courses régionales, mais celles qui resp
 La zone d'attribution des points est établi par la zone géographique de l'évènement. Exemple : Si vous participez à une course organisée à Rennes par un club Parisien, vos points seront attribués à la region Bretagne (02).
 
 Plus de limite à 20 points mais aux nombres de pilotes présent à la course.
-Exemple :
 
-PLACE | 1 | 2 | 3 | 4 | 5 | ... |
--- | -- | --
-POINTS | 32 | 31| 30 | 29| 28 | ... |
+#### Exemple pour une course à 32 pilotes :
+
+PLACE | 1 | 2 | 3 | 4 | 5 | ... | 30 | 31 | 32
+-- | -- | -- | -- | -- | -- | -- | -- | -- | --
+POINTS | 32 | 31 | 30 | 29| 28 | ... | 3 | 2 | 1
 
 > Le classement de chaque course devra etre communiqué à la fédération en remplissant le fichier suivant : [template-classement.csv](fichiers/template-classement.csv).
 
