@@ -68,9 +68,9 @@ La zone d'attribution des points est établi par la zone géographique de l'év�
 Plus de limite à 20 points mais aux nombres de pilotes présent à la course.
 Exemple :
 
-PLACE | 1 | 2 | 3 | 4 | 5 | ...
+PLACE | 1 | 2 | 3 | 4 | 5 | ... |
 -- | -- | --
-POINTS | 32 | 31| 30 | 29| 28 | ...
+POINTS | 32 | 31| 30 | 29| 28 | ... |
 
 > Le classement de chaque course devra etre communiqué à la fédération en remplissant le fichier suivant : [template-classement.csv](fichiers/template-classement.csv).
 
