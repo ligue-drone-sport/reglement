@@ -34,7 +34,7 @@ Toute forme de troll ou de popcorn dans les canaux textuels n’est pas toléré
 
 Lisez la description de chaque salon textuel avant de poster et respecter son sujet.
 
-6⃣ Pas de haine concernant les différents acteurs et la fédération
+6️⃣ Pas de haine concernant les différents acteurs et la fédération
 
 Nous sommes une communauté avec un staff de bénévole qui aime le drone, toute déferlante de haine envers un pilote, un organisateur, un organisme privé/public, un constructeur, un revendeur ou la FFAM elle-même est prohibée. Seule la critique constructive reste tolérée.
 
