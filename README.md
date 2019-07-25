@@ -68,6 +68,7 @@ Plus de limite à 20 points mais aux nombres de pilotes présent à la course. E
 
 entete 1 | entete 2 | entete 3
 -- | -- | --
+20 | 19 | 18
 
 > Le classement de chaque course devra etre communiqué à la fédération en remplissant le fichier suivant : [template-classement.csv](fichiers/template-classement.csv).
 
