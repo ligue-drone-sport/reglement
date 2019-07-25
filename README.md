@@ -103,14 +103,16 @@ Exemple : Pour la saison 2020, du lundi 29 juillet 2019, au dimanche 26 juillet 
 - Réglement FAI
 - 32 participants minimum
 - 65 participants maximum (cf. [mode de selection au CdF](#mode-de-selection-au-championnat-de-france))
-- Facilité d'acces en transport
+- Facilité d'accès en transport 
 - Proche hôtellerie et restauration
 - Ouvert au public
 - Organiser entre septembre et octobre
 - Ouverture des inscriptions au plus tard mi-aout
 
-## Mode de sélection pour l'equipe de France
+## Mode de sélection pour l'équipe de France
 
 La sélection ce fait uniquement dans le classement national auprès des pilotes possédant une licence compétition.
 
-Modalité à definir davantage.
+>Proposition :
+
+>Prendre les 2 meilleurs Adultes (plus de 18ans) et les 2 meilleurs Juniors (- de 18ans) du classement national.
