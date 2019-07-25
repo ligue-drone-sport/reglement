@@ -1,18 +1,21 @@
+# REGLEMENT
+
 <!-- TOC -->
 
-- [2 formats de courses](#2-formats-de-courses)
-  - [Proposition](#proposition)
-- [Format des courses nationale](#format-des-courses-nationale)
-- [Format des courses régionale](#format-des-courses-régionale)
-- [Définition des régions](#définition-des-régions)
-- [Attribution des points pour les différents classement](#attribution-des-points-pour-les-différents-classement)
-  - [Courses FFAM](#courses-ffam)
-    - [Exemple pour une course à 32 pilotes :](#exemple-pour-une-course-à-32-pilotes-)
-  - [Courses FAI](#courses-fai)
-- [Mode de sélection au Championnat de France](#mode-de-sélection-au-championnat-de-france)
-- [Saison de référence](#saison-de-référence)
-- [Critères pour organiser le Championnat de France](#critères-pour-organiser-le-championnat-de-france)
-- [Mode de sélection pour l'equipe de France](#mode-de-sélection-pour-lequipe-de-france)
+- [REGLEMENT](#reglement)
+  - [2 formats de courses](#2-formats-de-courses)
+    - [Proposition](#proposition)
+  - [Format des courses nationale](#format-des-courses-nationale)
+  - [Format des courses régionale](#format-des-courses-régionale)
+  - [Définition des régions](#définition-des-régions)
+  - [Attribution des points pour les différents classement](#attribution-des-points-pour-les-différents-classement)
+    - [Courses FFAM](#courses-ffam)
+      - [Exemple pour une course à 32 pilotes :](#exemple-pour-une-course-à-32-pilotes-)
+    - [Courses FAI](#courses-fai)
+  - [Mode de sélection au Championnat de France](#mode-de-sélection-au-championnat-de-france)
+  - [Saison de référence](#saison-de-référence)
+  - [Critères pour organiser le Championnat de France](#critères-pour-organiser-le-championnat-de-france)
+  - [Mode de sélection pour l'équipe de France](#mode-de-sélection-pour-léquipe-de-france)
 
 <!-- /TOC -->
 
@@ -103,7 +106,7 @@ Exemple : Pour la saison 2020, du lundi 29 juillet 2019, au dimanche 26 juillet 
 - Réglement FAI
 - 32 participants minimum
 - 65 participants maximum (cf. [mode de selection au CdF](#mode-de-selection-au-championnat-de-france))
-- Facilité d'accès en transport 
+- Facilité d'accès en transport
 - Proche hôtellerie et restauration
 - Ouvert au public
 - Organiser entre septembre et octobre
