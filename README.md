@@ -65,11 +65,12 @@ Toutes les courses sont au minimum des courses régionales, mais celles qui resp
 
 La zone d'attribution des points est établi par la zone géographique de l'évènement. Exemple : Si vous participez à une course organisée à Rennes par un club Parisien, vos points seront attribués à la region Bretagne (02).
 
-Plus de limite à 20 points mais aux nombres de pilotes présent à la course. Exemple : 32 pilotes présent, le vainqueur prend 32 pts, puis 31, 30 ainsi de suite...
+Plus de limite à 20 points mais aux nombres de pilotes présent à la course.
+Exemple :
 
-entete 1 | entete 2 | entete 3
+PLACE | 1 | 2 | 3 | 4 | 5 | ...
 -- | -- | --
-20 | 19 | 18
+POINTS | 32 | 31| 30 | 29| 28 | ...
 
 > Le classement de chaque course devra etre communiqué à la fédération en remplissant le fichier suivant : [template-classement.csv](fichiers/template-classement.csv).
 
