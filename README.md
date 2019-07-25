@@ -10,7 +10,8 @@
   - [Définition des régions](#définition-des-régions)
   - [Attribution des points pour les différents classement](#attribution-des-points-pour-les-différents-classement)
     - [Courses FFAM](#courses-ffam)
-      - [Exemple pour une course à 16 & 32 pilotes :](#exemple-pour-une-course-à-32-pilotes-)
+      - [Exemple pour une course à 32 pilotes](#exemple-pour-une-course-à-32-pilotes)
+      - [Exemple pour une course à 16 pilotes](#exemple-pour-une-course-à-16-pilotes)
     - [Courses FAI](#courses-fai)
   - [Mode de sélection au Championnat de France](#mode-de-sélection-au-championnat-de-france)
   - [Saison de référence](#saison-de-référence)
@@ -70,17 +71,19 @@ La zone d'attribution des points est établi par la zone géographique de l'év�
 
 Plus de limite à 20 points mais aux nombres de pilotes présent à la course.
 
-#### Exemple pour une course à 32 pilotes :
+#### Exemple pour une course à 32 pilotes
 
 PLACE | 1 | 2 | 3 | 4 | 5 | ... | 30 | 31 | 32
 -- | -- | -- | -- | -- | -- | -- | -- | -- | --
 POINTS | 32 | 31 | 30 | 29| 28 | ... | 3 | 2 | 1
 
-#### Exemple pour une course à 16 pilotes :
+#### Exemple pour une course à 16 pilotes
 
 PLACE | 1 | 2 | 3 | 4 | 5 | ... | 14 | 15 | 16
 -- | -- | -- | -- | -- | -- | -- | -- | -- | --
 POINTS | 16 | 15 | 14 | 13| 12 | ... | 3 | 2 | 1
+
+**Attention : Les pilotes non qualifiés doivent également être présent dans le classement, en les classant par leur résultat en qualification.**
 
 > Le classement de chaque course devra etre communiqué à la fédération en remplissant le fichier suivant : [template-classement.csv](fichiers/template-classement.csv).
 
