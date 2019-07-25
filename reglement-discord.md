@@ -36,7 +36,7 @@ Lisez la description de chaque salon textuel avant de poster et respecter son su
 
 6⃣ Pas de haine concernant les différents acteurs et la fédération
 
-Nous sommes une communauté avec un staff de bénévole qui aime le drone, toute déferlante de haine envers un pilote, un organisateur, un organisme privé, un constructeur, un revendeur ou la FFAM elle-même est prohibée. Seule la critique constructive reste tolérée.
+Nous sommes une communauté avec un staff de bénévole qui aime le drone, toute déferlante de haine envers un pilote, un organisateur, un organisme privé/public, un constructeur, un revendeur ou la FFAM elle-même est prohibée. Seule la critique constructive reste tolérée.
 
 7️⃣ Pseudonyme et Avatar sur Discord
 
