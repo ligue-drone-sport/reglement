@@ -24,9 +24,9 @@ Les courses nationales et régionales sont des courses officielles, comptant pou
 
 ### Proposition
 
-> Pour les courses nationales licence compétition obligatoire ?
+> Pour les courses nationales licence ou passeport compétition obligatoire ?
 
-> Pour les courses regionales licence loisir acceptée ?
+> Pour les courses regionales licence ou passeport loisir acceptée ?
 
 > Pour participer au Championnat de France en cas de sélection : Licence competition obligatoire ?
 
@@ -34,7 +34,7 @@ Les courses nationales et régionales sont des courses officielles, comptant pou
 
 > Comptant pour le classement national et regional.
 
-- 16 participants minimum (Pour info la moyenne des participants sur la saison 2019 est de 25 pilotes)
+- 16 participants minimum (Pour info la moyenne des participants sur la saison 2019 est de 25 pilotes sur 18 courses)
 -	Respect du règlement FAI
 -	Chronométrage/Système de course homologué ? (definir un protocol d'homologation)
 - Declarer sur portail FFAM 30 jours avant le début de l'évènement.
@@ -60,17 +60,17 @@ Le découpage des indicatifs téléphonique peut être une bonne base de départ
 
 ### Courses FFAM
 
-Toutes les courses sont au minimum des courses régionale, mais celles qui respectent le cahier des charges deviennent éligible pour compter au classement national.
+Toutes les courses sont au minimum des courses régionales, mais celles qui respectent le cahier des charges deviennent éligibles pour compter au classement national.
 
-La zone d'attribution des points est établi par la zone geographique de l'évènement. Exemple : Si vous participez à une course organisé à Rennes par un club Parisien, vos points seront attribués à la region Bretagne (02).
+La zone d'attribution des points est établi par la zone géographique de l'évènement. Exemple : Si vous participez à une course organisée à Rennes par un club Parisien, vos points seront attribués à la region Bretagne (02).
 
 Plus de limite à 20 points mais aux nombres de pilotes présent à la course. Exemple : 32 pilotes présent, le vainqueur prend 32 pts, puis 31, 30 ainsi de suite...
 
-> Le classement de chaque course devra etre communiqué à la federation en remplissant le fichier suivant : [template-classement.csv](fichiers/template-classement.csv).
+> Le classement de chaque course devra etre communiqué à la fédération en remplissant le fichier suivant : [template-classement.csv](fichiers/template-classement.csv).
 
 ### Courses FAI
 
-*Faire des propositions, sinon on reste sur le meme principe de points que les courses FFAM.*
+*Faire des propositions, sinon on reste sur le même principe de points que les courses FFAM.*
 
 ## Mode de sélection au Championnat de France
 
