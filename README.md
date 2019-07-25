@@ -66,6 +66,9 @@ La zone d'attribution des points est établi par la zone géographique de l'év�
 
 Plus de limite à 20 points mais aux nombres de pilotes présent à la course. Exemple : 32 pilotes présent, le vainqueur prend 32 pts, puis 31, 30 ainsi de suite...
 
+entete 1 | entete 2 | entete 3
+-- | -- | --
+
 > Le classement de chaque course devra etre communiqué à la fédération en remplissant le fichier suivant : [template-classement.csv](fichiers/template-classement.csv).
 
 ### Courses FAI
