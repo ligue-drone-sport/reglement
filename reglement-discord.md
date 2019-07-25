@@ -1,4 +1,4 @@
-# Regle de bonne conduite sur Discord
+**Regle de bonne conduite sur Discord**
 
 Bienvenue sur le discord Ligue de Drone Sport permettant à tous les pilotes de drones français de se réunir, de trouver d'autres pilotes, partager leurs conseils, d'être au courant de l'actualité et de participer à des événements.
 
