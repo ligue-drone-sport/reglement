@@ -10,7 +10,7 @@
   - [Définition des régions](#définition-des-régions)
   - [Attribution des points pour les différents classement](#attribution-des-points-pour-les-différents-classement)
     - [Courses FFAM](#courses-ffam)
-      - [Exemple pour une course à 32 pilotes :](#exemple-pour-une-course-à-32-pilotes-)
+      - [Exemple pour une course à 16 & 32 pilotes :](#exemple-pour-une-course-à-32-pilotes-)
     - [Courses FAI](#courses-fai)
   - [Mode de sélection au Championnat de France](#mode-de-sélection-au-championnat-de-france)
   - [Saison de référence](#saison-de-référence)
