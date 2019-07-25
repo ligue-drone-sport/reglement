@@ -40,8 +40,6 @@ Une manche se décompose en X groupe de 4 pilotes. Exemple : 16 pilotes soit 4 g
 
 #### Exemple pour une course à 16 pilotes :
 
--| PILOTES | - | - | -
--- | -- | -- | -- | --
 POULE A | 1 | 2 | 3 | 4
 POULE B | 5 | 6 | 7 | 8
 POULE C | 9 | 10 | 11 | 12
