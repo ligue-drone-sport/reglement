@@ -38,6 +38,19 @@ La compétition est comsposée de plusieurs manches, celle-ci peuvent être illi
 
 Une manche se décompose en X groupe de 4 pilotes. Exemple : 16 pilotes soit 4 groupes de 4 pilotes.
 
+#### Exemple pour une course à 16 pilotes :
+
+POULE | 1 | 2 | 3 | 4 
+-- | -- | -- | -- | 
+PILOTES | 1 | 5| 9 | 13
+-- | -- | -- | -- | 
+PILOTES | 2 | 6| 10 | 14
+-- | -- | -- | -- | 
+PILOTES | 3 | 7| 11 | 15
+-- | -- | -- | -- | 
+PILOTES | 4 | 8| 12 | 16
+-- | -- | -- | -- | 
+
 La première manche est défini en fonction du classement de qualification.
 
 Les manches suivantes se feront en fonction des points de chaque pilote.
@@ -48,7 +61,7 @@ A l'issue de chaque manche les pilotes seront classés en fonction de leur chron
 
 > Exemple en cas d'égalité : Pilote X fini dernier ex aequo avec pilote Y. Si pilote X était 3ème au classment en debut de manche, et pilote Y 7ème. Le classement final pour Pilote X sera 15éme et pour Pilote Y 16éme.
 
-Ces points viennent s'additionner aux nombrex de points accumulé sur les manches précédente, et permettent une ré-attribution des pilotes dans chaque groupe en fonction de leur total de points accumulé.
+Ces points viennent s'additionner aux nombres de points accumulés sur les manches précédentes, et permettent une ré-attribution des pilotes dans chaque groupe en fonction de leur total de points accumulés.
 
 ## Classement final
 
