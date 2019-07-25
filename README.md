@@ -1,4 +1,5 @@
 <!-- TOC -->
+# REGLEMENT
 
 - [2 formats de courses](#2-formats-de-courses)
   - [Proposition](#proposition)
