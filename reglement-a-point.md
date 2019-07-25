@@ -49,7 +49,7 @@ PILOTES | 2 | 6| 10 | 14
 PILOTES | 3 | 7| 11 | 15
 -- | -- | -- | -- | 
 PILOTES | 4 | 8| 12 | 16
--- | -- | -- | -- | 
+
 
 La première manche est défini en fonction du classement de qualification.
 
