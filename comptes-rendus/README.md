@@ -27,9 +27,9 @@ Les questions/points non-traités devront être listé dans la dernière partie 
 ## Formatage type
 
 ```
-# Compte rendu du Jour-Mois-Année
+# Compte rendu de la réunion du Jour-Mois-Année
 
-Table des matières (Matthieu s'occupera de le générer sur chaque document)
+Table des matières (Matthieu s'occupera de la générer sur chaque document)
 
 ## Participants
 
