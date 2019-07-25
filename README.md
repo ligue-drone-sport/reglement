@@ -76,6 +76,12 @@ PLACE | 1 | 2 | 3 | 4 | 5 | ... | 30 | 31 | 32
 -- | -- | -- | -- | -- | -- | -- | -- | -- | --
 POINTS | 32 | 31 | 30 | 29| 28 | ... | 3 | 2 | 1
 
+#### Exemple pour une course à 16 pilotes :
+
+PLACE | 1 | 2 | 3 | 4 | 5 | ... | 14 | 15 | 16
+-- | -- | -- | -- | -- | -- | -- | -- | -- | --
+POINTS | 16 | 15 | 14 | 13| 12 | ... | 3 | 2 | 1
+
 > Le classement de chaque course devra etre communiqué à la fédération en remplissant le fichier suivant : [template-classement.csv](fichiers/template-classement.csv).
 
 ### Courses FAI
