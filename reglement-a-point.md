@@ -22,7 +22,8 @@ Aucune limite minimum et/ou maximum de participant n'est défini. C'est au choix
 
 ## Qualification
 
-1 seule manche qualificative, avec 4 pilotes par poules.
+1 seule manche qualificative, avec 4 pilotes maximum par poules. 
+
 A l'issue de cette manche un classement est établi en fonction des chronos de chacun.
 Les 4 premiers se retrouvent dans le poule 1, les 4 suivants dans la 2, etc...
 
@@ -32,11 +33,11 @@ Le classement peut s'etablir au meilleur temps, au 2 meilleurs temps ou au 3 mei
 
 ## Compétition : Les manches
 
-La compétition est comsposée de plusieurs manches, celle-ci peuvent être illimitées.
+La compétition est composée de plusieurs manches, celle-ci peuvent être illimitées.
 
 > Attention : Toute manche commencée doit être finie.
 
-Une manche se décompose en X groupe de 4 pilotes. Exemple : 16 pilotes soit 4 groupes de 4 pilotes.
+Une manche se décompose en X groupe de 4 pilotes maximum. Exemple : 16 pilotes soit 4 groupes de 4 pilotes.
 
 #### Exemple pour une course à 16 pilotes :
 
