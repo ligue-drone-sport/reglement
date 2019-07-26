@@ -22,8 +22,8 @@
 
 ## 2 formats de courses
 
-- Nationale
-- Régionale
+- National
+- Régional
 
 Les courses nationales et régionales sont des courses officielles, comptant pour les [critères organisateurs pour le Championnat de France](#critere-pour-organiser-le-championnat-de-france).
 
@@ -31,18 +31,18 @@ Les courses nationales et régionales sont des courses officielles, comptant pou
 
 > Pour les courses nationales licence ou passeport compétition obligatoire ?
 
-> Pour les courses regionales licence ou passeport loisir acceptée ?
+> Pour les courses regionales licence ou passeport loisir accepté ?
 
-> Pour participer au Championnat de France en cas de sélection : Licence competition obligatoire ?
+> Pour participer au Championnat de France en cas de sélection : Licence compétition obligatoire ?
 
 ## Format des courses nationales
 
-> Comptant pour le classement national et regional.
+> Comptant pour le classement national et régional.
 
 - 16 participants minimum (Pour info la moyenne des participants sur la saison 2019 est de 25 pilotes sur 18 courses)
--	Respect du règlement FAI
+-	Respect du réglement FAI
 -	Chronométrage/Système de course homologué ? (definir un protocol d'homologation)
-- Declarer sur portail FFAM 30 jours avant le début de l'évènement.
+- Déclaration des courses sur portail FFAM 30 jours avant le début de l'évènement.
 - Mutlirotor avec une taille d'hélice supérieur ou égale à 3 pouces.
 
 > Objectif : Harmoniser l'organisation au maximum. Favoriser la compétition. Les courses devront être clairement identifiées comme comptant pour le classement national.
@@ -53,7 +53,7 @@ Les courses nationales et régionales sont des courses officielles, comptant pou
 
 -	[Règlement à point](reglement-a-point.md) (montée/descente) pour favoriser les vols.
 
-> Objectif : Faciliter l'accès aux pilotes "amateurs" et/ou qui ne souhaite pas se deplacer sur de longue distance. Favoriser la découverte de la compétition dans un cadre plus agréable.
+> Objectif : Faciliter l'accès aux pilotes "amateurs" et/ou qui ne souhaite pas se déplacer sur de longue distance. Favoriser la découverte de la compétition dans un cadre plus agréable.
 
 ## Définition des régions
 
@@ -85,7 +85,7 @@ POINTS | 16 | 15 | 14 | 13| 12 | ... | 3 | 2 | 1
 
 **Attention : Les pilotes non qualifiés doivent également être présent dans le classement, en les classant par leur résultat en qualification.**
 
-> Le classement de chaque course devra etre communiqué à la fédération en remplissant le fichier suivant : [template-classement.csv](fichiers/template-classement.csv).
+> Le classement de chaque course devra être communiqué à la fédération en remplissant le fichier suivant : [template-classement.csv](fichiers/template-classement.csv).
 
 ### Courses FAI
 
@@ -96,20 +96,20 @@ POINTS | 16 | 15 | 14 | 13| 12 | ... | 3 | 2 | 1
 - 40 premiers pilotes du classement National
 - 5 premiers pilotes de chaque classement Regional, qui ne sont pas déjà éligible via le classement National
 
-Soit un total de 65 pilotes elligible au Championnat de France.
+Soit un total de 65 pilotes éligibles au Championnat de France.
 
-> Plus de limite haute ou basse aux nombrex de participations, toutes les participations comptent dans les differents classement.
+> Plus de limite haute ou basse aux nombres de participations, toutes les participations comptent dans les differents classement.
 
 > Les classements ce font aux nombres de points, puis aux nombres de participations, puis par ordre alphabetique du nom de famille.
 
 ![](images/exemple-tableau-regional-national.jpg)
 _vous pouvez télécharger le fichier excel ici [classement régional national](fichiers/classement_regional_national.xlsx)_
 
-> Proposition de Bonus : A chaque nouvelle region, le pilote prend +5 pts de bonus par region, au classement national -> favoriser le déplacement inter-région
+> Proposition de Bonus : A chaque nouvelle region, le pilote prend +5 pts de bonus par région, au classement national -> favoriser le déplacement inter-région
 
 ## Saison de référence
 
-Du lendemain du dernier weekend de juillet année N, au dernier weekend, inclus de juillet année N+1.
+Du lendemain du dernier week-end de juillet année N, au dernier week-end, inclus de juillet année N+1.
 
 Exemple : Pour la saison 2020, du lundi 29 juillet 2019, au dimanche 26 juillet 2020.
 
@@ -117,7 +117,7 @@ Exemple : Pour la saison 2020, du lundi 29 juillet 2019, au dimanche 26 juillet 
 
 - Etre un club affilié depuis la saison précédente au minimum.
 - Avoir organisé au moins 3 courses officielles.
-- Réglement FAI
+- Apllication du Réglement FAI
 - 32 participants minimum
 - 65 participants maximum (cf. [mode de selection au CdF](#mode-de-selection-au-championnat-de-france))
 - Facilité d'accès en transport
