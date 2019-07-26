@@ -24,13 +24,11 @@ Aucune limite minimum et/ou maximum de participant n'est défini. C'est au choix
 
 1 seule manche qualificative, avec 4 pilotes maximum par poules. 
 
-A l'issue de cette manche un classement est établi en fonction des chronos de chacun.
+A l'issue de cette manche un classement est établi en fonction des chronos de chacun. Les N premiers se retrouvent dans la poule 1, les N suivants dans la 2, etc...
 
-Les N premiers se retrouvent dans la poule 1, les N suivants dans la 2, etc...
+> Exemple avec 4 pilotes par poules : Les 4 premiers se retrouvent dans la poule 1, les 4 suivants dans la 2, etc...
 
-> exemple avec 4 pilotes par poules, Les 4 premiers se retrouvent dans la poule 1, les 4 suivants dans la 2, etc...
-
-Le classement peut s'etablir au meilleur temps, au 2 meilleurs temps ou au 3 meilleurs temps. C'est au choix de l'organisateur.
+Le classement peut s'établir au meilleur temps, au 2 meilleurs temps ou au 3 meilleurs temps au tour. C'est au choix de l'organisateur.
 
 > Il correspond à peu près à un classement par niveau mais il s'affinera par la suite. Cela permettra aussi de voler avec des pilotes de même niveau tout au long de la compétition.
 
