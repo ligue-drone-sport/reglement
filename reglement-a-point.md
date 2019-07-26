@@ -33,7 +33,7 @@ Le classement peut s'etablir au meilleur temps, au 2 meilleurs temps ou au 3 mei
 
 ## Compétition : Les manches
 
-La compétition est composée de plusieurs manches, celle-ci peuvent être illimitées.
+La compétition est composée de plusieurs manches. A définir au préalable avant la compétition.
 
 > Attention : Toute manche commencée doit être finie.
 
