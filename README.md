@@ -117,7 +117,7 @@ Exemple : Pour la saison 2020, du lundi 29 juillet 2019, au dimanche 26 juillet 
 
 - Etre un club affilié depuis la saison précédente au minimum.
 - Avoir organisé au moins 3 courses officielles.
-- Apllication du Réglement FAI
+- Application du Réglement FAI
 - 32 participants minimum
 - 65 participants maximum (cf. [mode de selection au CdF](#mode-de-selection-au-championnat-de-france))
 - Facilité d'accès en transport
