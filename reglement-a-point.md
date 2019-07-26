@@ -25,7 +25,8 @@ Aucune limite minimum et/ou maximum de participant n'est défini. C'est au choix
 1 seule manche qualificative, avec 4 pilotes maximum par poules. 
 
 A l'issue de cette manche un classement est établi en fonction des chronos de chacun.
-Les 4 premiers se retrouvent dans le poule 1, les 4 suivants dans la 2, etc...
+
+> exemple : Les 4 premiers se retrouvent dans le poule 1, les 4 suivants dans la 2, etc...
 
 Le classement peut s'etablir au meilleur temps, au 2 meilleurs temps ou au 3 meilleurs temps. C'est au choix de l'organisateur.
 
