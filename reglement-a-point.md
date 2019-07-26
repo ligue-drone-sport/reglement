@@ -30,7 +30,7 @@ A l'issue de cette manche un classement est établi en fonction des chronos de c
 
 Le classement peut s'établir au meilleur temps, au 2 meilleurs temps ou au 3 meilleurs temps au tour. C'est au choix de l'organisateur.
 
-> Il correspond à peu près à un classement par niveau mais il s'affinera par la suite. Cela permettra aussi de voler avec des pilotes de même niveau tout au long de la compétition.
+> Il correspond à peu près à un classement par niveau. Cela permettra aussi de voler avec des pilotes de même niveau tout au long de la compétition.
 
 ## Compétition : Les manches
 
