@@ -130,4 +130,6 @@ Exemple : Pour la saison 2020, du lundi 29 juillet 2019, au dimanche 26 juillet 
 
 La sélection ce fait uniquement dans le classement national auprès des pilotes possédant une licence compétition.
 
->Proposition : Prendre les 2 meilleurs Adultes (plus de 18ans) et les 2 meilleurs Juniors (- de 18ans) du classement national.
+>Proposition 1 : Prendre les 2 meilleurs Adultes (plus de 18ans) et les 2 meilleurs Juniors (- de 18ans) du classement national.
+
+>Proposition 2 : 4 premiers du classement national.
