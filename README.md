@@ -69,9 +69,7 @@ Toutes les courses sont au minimum des courses régionales, mais celles qui resp
 
 La zone d'attribution des points est établi par la zone géographique de l'évènement. Exemple : Si vous participez à une course organisée à Rennes par un club Parisien, vos points seront attribués à la region Bretagne (02).
 
->Si un pilote participe à plusieurs courses situées dans différentes régions, seul le classement de la région dont il réside comptera.
-
-'''Plus de limite à 20 points mais aux nombres de pilotes présent à la course.'''
+```Plus de limite à 20 points mais aux nombres de pilotes présent à la course.```
 
 #### Exemple pour une course à 32 pilotes
 
