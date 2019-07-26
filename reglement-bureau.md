@@ -2,7 +2,7 @@
 
 ## Règle de bonne conduite
 
-Le respect et la tolérance envers chaque membre du Bureau et également envers les adhérents est nécessaire. Vous devez donc rester polis et courtois, que ce soit sur les réseaux sociaux, sur discord, ou tout autre moyen de communication. Toute remarque à caractère raciste, homophobe, sexiste ou toutes autres remarques discriminatoires sont interdites. Le langage SMS est prohibé, vous devez vous exprimer dans un français correct et compréhensible par tous.
+Le respect et la tolérance envers chaque membre du Bureau et également envers les adhérents est nécessaire. Vous devez donc rester polis et courtois, que ce soit sur les réseaux sociaux, sur discord, ou tout autres moyens de communication. Toutes remarques à caractère raciste, homophobe, sexiste ou toutes autres remarques discriminatoires sont interdites. Le langage SMS est prohibé, vous devez vous exprimer dans un français correct et compréhensible par tous.
 
 Tout comportement contraire à ces règles pourra entraîner un avertissement voir une exclusion du bureau.
 
