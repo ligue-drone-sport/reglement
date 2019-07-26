@@ -14,7 +14,7 @@
 
 ## Présention
 
-Le réglement à point a pour objectif de favoriser le nombre de vol, en permettant à tous les participants d'effectuer le même nombre de vols. Pour garder l'aspect compétition un systeme de point permet de monter/descendre dans le classement, et de toujours concourrir contre des pilotes ayant le meme niveau de pilotage.
+Le réglement à point à pour objectif de favoriser le nombre de vol, en permettant à tous les participants d'effectuer le même nombre de vols. Pour garder l'aspect compétition un systeme de point permet de monter/descendre dans le classement, et de toujours concourrir contre des pilotes ayant le même niveau de pilotage.
 
 ## Nombre de participant
 
@@ -32,9 +32,9 @@ Le classement peut s'etablir au meilleur temps, au 2 meilleurs temps ou au 3 mei
 
 ## Compétition : Les manches
 
-La compétition est comsposée de plusieurs manches, celle-ci peuvent être illimité.
+La compétition est comsposée de plusieurs manches, celle-ci peuvent être illimitées.
 
-> Attention : Toute manche commencée doit etre finie.
+> Attention : Toute manche commencée doit être finie.
 
 Une manche se décompose en X groupe de 4 pilotes. Exemple : 16 pilotes soit 4 groupes de 4 pilotes.
 
@@ -51,7 +51,7 @@ La première manche est défini en fonction du classement de qualification.
 
 Les manches suivantes se feront en fonction des points de chaque pilote.
 
-A l'issue de chaque manche les pilotes seront classés en fonction de leur chrono, tous groupes confondu. Un nombre de points leur sera alors attribué en fonction du nombre de pilote et de leur position dans le classement de cette manche. En cas d'égalité les pilotes seront départagés par leur classement en début de manche.
+A l'issue de chaque manche les pilotes seront classés en fonction de leur chrono, tous groupes confondus. Un nombre de points leur sera alors attribué en fonction du nombre de pilote et de leur position dans le classement de cette manche. En cas d'égalité les pilotes seront départagés par leur classement en début de manche.
 
 > Exemple : Pilote X fini 1er sur 16 pilotes, il gagne 16pts. Pilote Y fini 2éme sur 16 pilotes il gagne 15pts, et ainsi de suite.
 
@@ -63,7 +63,7 @@ Ces points viennent s'additionner aux nombres de points accumulés sur les manch
 
 Chaque pilote accumule des points entre chaque manche.
 
-Le classement final est établi sur le total de ces points, du plus grand nombre de points au plus petit nombre.
+Le classement final est établi sur le total de ces points, du plus grand nombre de points au plus petit.
 
 ## Exemple de tableau
 
