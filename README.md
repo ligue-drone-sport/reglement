@@ -105,7 +105,7 @@ Soit un total de 65 pilotes elligible au Championnat de France.
 ![](images/exemple-tableau-regional-national.jpg)
 _vous pouvez télécharger le fichier excel ici [classement régional national](fichiers/classement_regional_national.xlsx)_
 
-> Proposition de Bonus : A chaque nouvelle region, le pilote prend +5 pts de bonus par region, au classement national
+> Proposition de Bonus : A chaque nouvelle region, le pilote prend +5 pts de bonus par region, au classement national -> favoriser le déplacement inter-région
 
 ## Saison de référence
 
