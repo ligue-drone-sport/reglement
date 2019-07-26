@@ -1,12 +1,12 @@
-# REGLEMENT
+# REGLEMENT DRONE RACING
 
 <!-- TOC -->
 
 - [REGLEMENT](#reglement)
   - [2 formats de courses](#2-formats-de-courses)
     - [Proposition](#proposition)
-  - [Format des courses nationale](#format-des-courses-nationale)
-  - [Format des courses régionale](#format-des-courses-régionale)
+  - [Format des courses nationales](#format-des-courses-nationale)
+  - [Format des courses régionales](#format-des-courses-régionale)
   - [Définition des régions](#définition-des-régions)
   - [Attribution des points pour les différents classement](#attribution-des-points-pour-les-différents-classement)
     - [Courses FFAM](#courses-ffam)
@@ -35,7 +35,7 @@ Les courses nationales et régionales sont des courses officielles, comptant pou
 
 > Pour participer au Championnat de France en cas de sélection : Licence competition obligatoire ?
 
-## Format des courses nationale
+## Format des courses nationales
 
 > Comptant pour le classement national et regional.
 
@@ -47,7 +47,7 @@ Les courses nationales et régionales sont des courses officielles, comptant pou
 
 > Objectif : Harmoniser l'organisation au maximum. Favoriser la compétition. Les courses devront être clairement identifiées comme comptant pour le classement national.
 
-## Format des courses régionale
+## Format des courses régionales
 
 > Comptant uniquement pour le classement régional.
 
@@ -61,7 +61,7 @@ Le découpage des indicatifs téléphonique peut être une bonne base de départ
 
 ![](images/decoupage-regional.png)
 
-## Attribution des points pour les différents classement
+## Attribution des points pour les différents classements
 
 ### Courses FFAM
 
@@ -69,7 +69,9 @@ Toutes les courses sont au minimum des courses régionales, mais celles qui resp
 
 La zone d'attribution des points est établi par la zone géographique de l'évènement. Exemple : Si vous participez à une course organisée à Rennes par un club Parisien, vos points seront attribués à la region Bretagne (02).
 
-Plus de limite à 20 points mais aux nombres de pilotes présent à la course.
+>Si un pilote participe à plusieurs courses situées dans différentes régions, seul le classement de la région dont il réside comptera.
+
+'''Plus de limite à 20 points mais aux nombres de pilotes présent à la course.'''
 
 #### Exemple pour une course à 32 pilotes
 
