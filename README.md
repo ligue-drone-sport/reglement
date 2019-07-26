@@ -102,6 +102,10 @@ Soit un total de 65 pilotes elligible au Championnat de France.
 
 > Les classements ce font aux nombres de points, puis aux nombres de participations, puis par ordre alphabetique du nom de famille.
 
+![](images/exemple-tableau-regional-national.jpg)
+
+> Proposition de Bonus : A chaque nouvelle region, le pilote prend +5 pts de bonus par region, au classement national
+
 ## Saison de référence
 
 Du lendemain du dernier weekend de juillet année N, au dernier weekend, inclus de juillet année N+1.
@@ -125,6 +129,4 @@ Exemple : Pour la saison 2020, du lundi 29 juillet 2019, au dimanche 26 juillet 
 
 La sélection ce fait uniquement dans le classement national auprès des pilotes possédant une licence compétition.
 
->Proposition :
-
->Prendre les 2 meilleurs Adultes (plus de 18ans) et les 2 meilleurs Juniors (- de 18ans) du classement national.
+>Proposition : Prendre les 2 meilleurs Adultes (plus de 18ans) et les 2 meilleurs Juniors (- de 18ans) du classement national.
