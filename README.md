@@ -125,7 +125,7 @@ Exemple : Pour la saison 2020, du lundi 29 juillet 2019, au dimanche 26 juillet 
 - Ouvert au public
 - Organiser entre septembre et octobre
 - Ouverture des inscriptions au plus tard mi-aout
-- Le lieu et la date doivent etre connu a mi-saison
+- Une communication active (par exemple : 1 post par mois, 6 mois avant l'evenement pour informer les pilotes de l'evolution)
 
 ## Mode de sélection pour l'équipe de France
 
