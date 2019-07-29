@@ -134,4 +134,4 @@ La sélection ce fait uniquement dans le classement national auprès des pilotes
 
 >Proposition 2 : 4 premiers du classement national.
 
->Proposition 3 : Avoir une licence FAI, Avoir participer à x courses FAI dont X à l'étranger
+>Proposition 3 : Avoir une licence FAI, avoir participer à x courses FAI dont X à l'étranger et selectionner les mieux classés (peut etre retenir les x meilleurs classements afin de ne pas favoriser les plus fortiner)
