@@ -4,7 +4,7 @@
 
 - [REGLEMENT](#reglement)
   - [2 formats de courses](#2-formats-de-courses)
-    - [Proposition](#proposition)
+    - [Propositions](#proposition)
   - [Format des courses nationales](#format-des-courses-nationale)
   - [Format des courses régionales](#format-des-courses-régionale)
   - [Définition des régions](#définition-des-régions)
