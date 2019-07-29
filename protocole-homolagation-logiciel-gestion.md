@@ -10,7 +10,7 @@ Le protocole d'homologation permettra de définir la liste des logiciels de gest
 - Etre autonome dans sa gestion
 - Intégrer le réglement FAI
 - Intégrer le reglement à point (régional, sous reserve qu'il soit validé)
-- Payer mensuellement (abonnement) ou par evenements
+- Proposer au client un forfait mensuel (abonnement) ou par événements
 - Etre compatible avec les systemes grand public ci-dessous :
   - ImmersionRC LapRF Pro (8way)
   - ImmersionRC LapRF Personal (puck)
