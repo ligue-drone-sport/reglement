@@ -20,7 +20,7 @@
 
 <!-- /TOC -->
 
-## 2 formats de courses
+## 2 formats de courses (je mettrai 2 types de courses)
 
 - National
 - Régional
@@ -69,7 +69,7 @@ Toutes les courses sont au minimum des courses régionales, mais celles qui resp
 
 La zone d'attribution des points est établi par la zone géographique de l'évènement. Exemple : Si vous participez à une course organisée à Rennes par un club Parisien, vos points seront attribués à la region Bretagne (02).
 
-```Plus de limite à 20 points mais aux nombres de pilotes présent à la course.```
+```Plus de limite à 20 points mais aux nombres de pilotes présent à la course.``` (Cela rendra les courses a peu de participants peu intérésente)
 
 #### Exemple pour une course à 32 pilotes
 
@@ -119,12 +119,13 @@ Exemple : Pour la saison 2020, du lundi 29 juillet 2019, au dimanche 26 juillet 
 - Avoir organisé au moins 3 courses officielles.
 - Application du Réglement FAI
 - 32 participants minimum
-- 65 participants maximum (cf. [mode de selection au CdF](#mode-de-selection-au-championnat-de-france))
+- 65 participants maximum (cf. [mode de selection au CdF](#mode-de-selection-au-championnat-de-france))  
 - Facilité d'accès en transport
 - Proche hôtellerie et restauration
 - Ouvert au public
 - Organiser entre septembre et octobre
 - Ouverture des inscriptions au plus tard mi-aout
+- Le lieu et la date doivent etre connu a mi-saison
 
 ## Mode de sélection pour l'équipe de France
 
@@ -134,4 +135,4 @@ La sélection ce fait uniquement dans le classement national auprès des pilotes
 
 >Proposition 2 : 4 premiers du classement national.
 
->Proposition 3 : Avoir une licence FAI, avoir participer à x courses FAI dont X à l'étranger et selectionner les mieux classés (peut etre retenir les x meilleurs classements afin de ne pas favoriser les plus fortiner)
+>Proposition 3 : Avoir une licence FAI, avoir participer à x courses FAI dont X à l'étranger et selectionner les mieux classés (peut etre retenir les x meilleurs classements afin de ne pas favoriser les plus fortuner)
