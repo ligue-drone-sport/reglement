@@ -133,3 +133,5 @@ La sélection ce fait uniquement dans le classement national auprès des pilotes
 >Proposition 1 : Prendre les 2 meilleurs Adultes (plus de 18ans) et les 2 meilleurs Juniors (- de 18ans) du classement national.
 
 >Proposition 2 : 4 premiers du classement national.
+
+>Proposition 3 : Avoir une licence FAI, Avoir participer à x courses FAI dont X à l'étranger
