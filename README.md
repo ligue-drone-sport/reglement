@@ -4,7 +4,7 @@
 
 - [REGLEMENT](#reglement)
   - [2 formats de courses](#2-formats-de-courses)
-    - [Propositions](#proposition)
+    - [Propositions](#propositions)
   - [Format des courses nationales](#format-des-courses-nationale)
   - [Format des courses régionales](#format-des-courses-régionale)
   - [Définition des régions](#définition-des-régions)
@@ -20,14 +20,14 @@
 
 <!-- /TOC -->
 
-## 2 formats de courses (je mettrai 2 types de courses)
+## 2 formats de courses
 
 - National
 - Régional
 
 Les courses nationales et régionales sont des courses officielles, comptant pour les [critères organisateurs pour le Championnat de France](#critere-pour-organiser-le-championnat-de-france).
 
-### Proposition
+### Propositions
 
 > Pour les courses nationales licence ou passeport compétition obligatoire ?
 
@@ -69,7 +69,7 @@ Toutes les courses sont au minimum des courses régionales, mais celles qui resp
 
 La zone d'attribution des points est établi par la zone géographique de l'évènement. Exemple : Si vous participez à une course organisée à Rennes par un club Parisien, vos points seront attribués à la region Bretagne (02).
 
-```Plus de limite à 20 points mais aux nombres de pilotes présent à la course.``` (Cela rendra les courses a peu de participants peu intérésente)
+```Plus de limite à 20 points mais aux nombres de pilotes présent à la course.```
 
 #### Exemple pour une course à 32 pilotes
 
@@ -135,6 +135,6 @@ La sélection ce fait uniquement dans le classement national auprès des pilotes
 
 >Proposition 2 : 4 premiers du classement national.
 
->Proposition 3 : Avoir une licence FAI, avoir participer à x courses FAI dont X à l'étranger et selectionner les mieux classés (peut etre retenir les x meilleurs classements afin de ne pas favoriser les plus fortuner)
+>Proposition 3 : Avoir une licence FAI, avoir participer à x courses FAI dont X à l'étranger et selectionner les mieux classés (retenir les x meilleurs classements).
 
 >Proposition 4 : Un selectioneur officiel de l'equipe de France?
