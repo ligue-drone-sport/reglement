@@ -137,4 +137,4 @@ La sélection ce fait uniquement dans le classement national auprès des pilotes
 
 >Proposition 3 : Avoir une licence FAI, avoir participer à x courses FAI dont X à l'étranger et selectionner les mieux classés (retenir les x meilleurs classements).
 
->Proposition 4 : Un selectioneur officiel de l'equipe de France?
+>Proposition 4 : Un selectioneur officiel de l'equipe de France. Definir un protocol pour sa nomination chaque annee, sa mission, ses objectifs, son budget (s'il en a un) et egalement les dates butoirs de nomination des pilotes...
