@@ -49,4 +49,4 @@ Le discord est un lieu de communication et d'échange. Il est administré par le
 
 La page facebook [Ligue de Drone Sport](https://www.facebook.com/LiguedeDroneSportFFAM/), ainsi que le groupe Facebook [Ligue de Drone Sport, le groupe](https://www.facebook.com/groups/2202431660034278/) sont administré par plusieurs membre du bureau. Certains s'occupent de leur paramétrage, d'autres de la communication, et des échanges dans la messagerie et les posts.
 
-**Tous les posts et commentaires publiés au nom de la LDS devront etre succedés par le prénom et le nom de famille du membre de la LDS à l'origine du message.**
+**Tous les posts et commentaires publiés au nom de la LDS devront etre succedés par le prénom et l'initial du nom de famille du membre de la LDS, et eventuellement le pseudo, à l'origine du message.** _Ex : Richard A. (RickySanchez)_
