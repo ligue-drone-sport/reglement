@@ -24,7 +24,7 @@ DRONE RACING SAISON 2020
 
 # 1. Objectif
 
-Dans toute discipline sportive une segmentation par niveau se crée naturellement. Dans le drone racing elle pourrait se distinguer ainsi : "top pilote", intermédiaire et débutants.
+Dans toute discipline sportive une segmentation par niveau se crée naturellement. Dans le drone racing elle pourrait se segmenter ainsi : "top pilote", intermédiaire et débutants.
 
 A ce jours seul les top pilotes et une partie des pilotes intermediaire sont representés au travers du championnat Francais. Qu'en est-il des autres pilotes intermédiaire et débutants ?
 
