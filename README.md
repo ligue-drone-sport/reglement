@@ -40,10 +40,10 @@ Les courses nationales et régionales sont des courses officielles, comptant pou
 > Comptant pour le classement national et régional.
 
 - 16 participants minimum (Pour info la moyenne des participants sur la saison 2019 est de 25 pilotes sur 18 courses)
--	Respect du réglement FAI
--	Chronométrage/Système de course homologué ? (definir un protocol d'homologation)
-- Déclaration des courses sur portail FFAM 30 jours avant le début de l'évènement.
-- Mutlirotor avec une taille d'hélice supérieur ou égale à 3 pouces.
+-	Réglement FAI (toute modification concernant ce reglement ce fera en dehors de ce depot et suivra sa propre procedure)
+- Déclaration des courses sur portail FFAM 30 jours avant le début de l'évènement
+- Mutlirotor avec une taille d'hélice supérieur ou égale à 3 pouces
+- _Logiciel de gestion de course homologué (definir un protocol d'homologation - en cours de saison)_
 
 > Objectif : Harmoniser l'organisation au maximum. Favoriser la compétition. Les courses devront être clairement identifiées comme comptant pour le classement national.
 
