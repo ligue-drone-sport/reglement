@@ -44,14 +44,14 @@ Vous l'aurez compris ces changements sont ambitieux et ils ne seront possible qu
 
 Comme on dit : `L'union fait la force !`
 
-# 2. formats de courses
+# 2. Formats des courses
 
-- National : Niveau top & intermediaire
-- Régional : Niveau intermediaire et debutant
+- National : Niveau "top pilote" & intermédiaire
+- Régional : Niveau intermédiaire et débutant
 
 ## 2.1. Propositions
 
-**Autoriser les licences loisirs a participer au championnat regional.**
+**Autoriser les licences loisirs à participer au championnat regional.**
 
 Course | Licence loisir | Licence compétition
 ------------ | ------------ | -------------
@@ -59,7 +59,7 @@ Regionale | ✔️ | ✔️
 Nationale |  | ✔️
 Championnat de France |   | ✔️
 
-> Objectif : Favoriser l'accessibilite aux courses regionales pour les pilotes intermédiaire et débutant.
+> Objectif : Favoriser l'accessibilité aux courses régionales pour les pilotes intermédiaire et débutant.
 
 ## 2.2. Format des courses nationales
 
@@ -79,7 +79,7 @@ Championnat de France |   | ✔️
 
 **Les courses régionales comptent uniquement pour le classement régional (déterminé par la région de l'evenement).**
 
-> Objectif : Faciliter l'accès aux pilotes "amateurs" et/ou qui ne souhaite pas se déplacer sur de longue distance. Favoriser la découverte de la compétition dans un cadre plus agréable.
+> Objectif : Faciliter l'accès aux pilotes "debutants" et/ou qui ne souhaitent pas se déplacer sur de longue distance. Favoriser la découverte de la compétition dans un cadre plus agréable.
 
 ### 2.3.1. Définition des régions
 
