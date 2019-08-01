@@ -6,16 +6,12 @@
   - [2.1. Propositions](#21-propositions)
   - [2.2. Format des courses nationales](#22-format-des-courses-nationales)
   - [2.3. Format des courses régionales](#23-format-des-courses-régionales)
-    - [2.3.1. Définition des régions](#231-définition-des-régions)
 - [3. Attribution des points pour les différents classements](#3-attribution-des-points-pour-les-différents-classements)
   - [3.1. Courses FFAM](#31-courses-ffam)
-    - [3.1.1. Exemple pour une course à 32 pilotes](#311-exemple-pour-une-course-à-32-pilotes)
-    - [3.1.2. Exemple pour une course à 16 pilotes](#312-exemple-pour-une-course-à-16-pilotes)
   - [3.2. Courses FAI](#32-courses-fai)
 - [4. Mode de sélection au Championnat de France](#4-mode-de-sélection-au-championnat-de-france)
 - [5. Saison de référence](#5-saison-de-référence)
 - [6. Critères pour organiser le Championnat de France](#6-critères-pour-organiser-le-championnat-de-france)
-- [7. Mode de sélection pour l'équipe de France](#7-mode-de-sélection-pour-léquipe-de-france)
 
 <!-- /TOC -->
 
@@ -46,8 +42,8 @@ Comme on dit : `L'union fait la force !`
 
 # 2. Formats des courses
 
-- National : Niveau "top pilote" & intermédiaire
-- Régional : Niveau intermédiaire et débutant
+- National 
+- Régional 
 
 ## 2.1. Propositions
 
@@ -67,9 +63,8 @@ Championnat de France |   | ✔️
 - Réglement FAI (toute modification concernant ce reglement ce fera en dehors de ce depot et suivra sa propre procedure)
 - Déclaration des courses sur portail FFAM 30 jours avant le début de l'évènement
 - Mutlirotor avec une taille d'hélice supérieur ou égale à 3 pouces
-- _Logiciel de gestion de course homologué (definir un protocol d'homologation - en cours de saison)_
 
-**Les courses nationales comptent pour le classement national et régional (déterminé par la région de l'evenement).**
+**Les courses nationales comptent pour le classement national et régional (déterminé par la région de l'évenement).**
 
 > Objectif : Harmoniser l'organisation au maximum. Favoriser la compétition. Les courses devront être clairement identifiées comme comptant pour le classement national.
 
@@ -77,9 +72,9 @@ Championnat de France |   | ✔️
 
 - [Règlement à point](reglement-a-point.md) (montée/descente) pour favoriser les vols.
 
-**Les courses régionales comptent uniquement pour le classement régional (déterminé par la région de l'evenement).**
+**Les courses régionales comptent uniquement pour le classement régional (déterminé par la région de l'évenement).**
 
-> Objectif : Faciliter l'accès aux pilotes "debutants" et/ou qui ne souhaitent pas se déplacer sur de longue distance. Favoriser la découverte de la compétition dans un cadre plus agréable.
+> Objectif : Faciliter l'accès aux pilotes "débutants" et/ou qui ne souhaitent pas se déplacer sur de longue distance. Favoriser la découverte de la compétition dans un cadre plus agréable.
 
 ### 2.3.1. Définition des régions
 
@@ -98,19 +93,7 @@ Toutes les courses sont au minimum des courses régionales, mais celles qui resp
 
 La zone d'attribution des points au classement regional est établi par la zone géographique de l'évènement. Exemple : Si vous participez à une course organisée à Rennes par un club Parisien, vos points seront attribués à la region Bretagne (02).
 
-**Plus de limite à 20 points mais aux nombres de pilotes présent à la course.**
-
-### 3.1.1. Exemple pour une course à 32 pilotes
-
-PLACE | 1 | 2 | 3 | 4 | 5 | ... | 30 | 31 | 32
--- | -- | -- | -- | -- | -- | -- | -- | -- | --
-POINTS | 32 | 31 | 30 | 29| 28 | ... | 3 | 2 | 1
-
-### 3.1.2. Exemple pour une course à 16 pilotes
-
-PLACE | 1 | 2 | 3 | 4 | 5 | ... | 14 | 15 | 16
--- | -- | -- | -- | -- | -- | -- | -- | -- | --
-POINTS | 16 | 15 | 14 | 13| 12 | ... | 3 | 2 | 1
+**Proposition sur l'attribution des points : en cours**
 
 **Attention : Les pilotes non qualifiés doivent également être présent dans le classement, en les classant par leur résultat en qualification.**
 
@@ -155,12 +138,3 @@ Exemple : Pour la saison 2020, du lundi 29 juillet 2019, au dimanche 26 juillet 
 - Organiser entre septembre et octobre
 - Ouverture des inscriptions au plus tard mi-aout
 - Une communication active (par exemple : 1 post par mois, 6 mois avant l'evenement pour informer les pilotes de l'evolution)
-
-# 7. Mode de sélection pour l'équipe de France
-
-La sélection ce fait uniquement dans le classement national auprès des pilotes possédant une licence compétition.
-
-- Proposition 1 : Prendre les 2 meilleurs Adultes (plus de 18ans) et les 2 meilleurs Juniors (- de 18ans) du classement national.
-- Proposition 2 : 4 premiers du classement national.
-- Proposition 3 : Avoir une licence FAI, avoir participer à x courses FAI dont X à l'étranger et selectionner les mieux classés (retenir les x meilleurs classements).
-- Proposition 4 : Un selectioneur officiel de l'equipe de France. Definir un protocol pour sa nomination chaque annee, sa mission, ses objectifs, son budget (s'il en a un) et egalement les dates butoirs de nomination des pilotes...
