@@ -56,10 +56,10 @@ Rang | Pilotes | temps
 
 POULE1 | POULE2 | POULE3 | POULE4
 -- | -- | -- | --
-Pilot 1 | Pilote 5 | Pilote 9 | Pilotes 13 
-Pilot 2 | Pilote 6 | Pilote 10 | Pilote 14 
-Pilot 3 | Pilote 7 | Pilote 11 | Pilote 15 
-Pilot 4 | Pilote 8 | Pilote 12 | Pilote 16
+Pilot 1 | Pilot 5 | Pilot 9 | Pilot 13 
+Pilot 2 | Pilot 6 | Pilot 10 | Pilot 14 
+Pilot 3 | Pilot 7 | Pilot 11 | Pilot 15 
+Pilot 4 | Pilot 8 | Pilot 12 | Pilot 16
 
 > Il correspond à peu près à un classement par niveau. Cela permettra aussi de voler avec des pilotes de même niveau tout au long de la compétition.
 
