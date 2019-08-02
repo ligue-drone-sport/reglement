@@ -44,24 +44,12 @@ Le classement peut s'établir au meilleur temps, au 2 meilleurs temps ou au 3 me
 
 Tableau du classement après la manche qualificative
 
-Rang | Pilotes | temps
--- | -- | -- 
-#1 | Pilote 1 | T1
-#2 | Pilote 2 | T2
-#3 | Pilote 3 | T3
-#-- | Pilote -- | T--
-#N | Pilote N | TN
-
 ![](images/REGL-PT-1.JPG)
 
-> Exemple avec 4 pilotes par poules : Les 4 premiers se retrouvent dans la poule 1, les 4 suivants dans la 2, etc...
+Répartition des pilotes suite à la manche qualificative 
+> 2 Exemples avec 3 et 4 pilotes par groupe
 
-POULE1 | POULE2 | POULE3 | POULE4
--- | -- | -- | --
-Pilot 1 | Pilot 5 | Pilot 9 | Pilot 13 
-Pilot 2 | Pilot 6 | Pilot 10 | Pilot 14 
-Pilot 3 | Pilot 7 | Pilot 11 | Pilot 15 
-Pilot 4 | Pilot 8 | Pilot 12 | Pilot 16
+![](images/REGL-PT-2.JPG)
 
 ## Compétition : Les manches
 
@@ -73,16 +61,15 @@ Une manche se décompose en X groupe de 4 pilotes maximum. Exemple : 16 pilotes 
 
 #### Exemple pour une course à 9 pilotes / 3 pilotes par poule :
 
-POULES | - | - | - | - 
--- | -- | -- | -- | --
-A | 1 | 2 | 3 | 4
-B | 5 | 6 | 7 | 8
-C | 9 | 10 | 11 | 12
-D | 13 | 14 | 15 | 16
-
 La première manche est défini en fonction du classement de qualification.
 
+![](images/REGL-PT-3.JPG)
+
 Les manches suivantes se feront en fonction des points de chaque pilote.
+
+![](images/REGL-PT-4.JPG)
+
+![](images/REGL-PT-5.JPG)
 
 A l'issue de chaque manche les pilotes seront classés en fonction de leur chrono, tous groupes confondus. Un nombre de points leur sera alors attribué en fonction du nombre de pilote et de leur position dans le classement de cette manche. En cas d'égalité les pilotes seront départagés par leur classement en début de manche.
 
