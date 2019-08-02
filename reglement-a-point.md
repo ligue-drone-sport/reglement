@@ -52,6 +52,8 @@ Rang | Pilotes | temps
 #-- | Pilote -- | T--
 #N | Pilote N | TN
 
+![](images/REGL-PT-1.JPG)
+
 > Exemple avec 4 pilotes par poules : Les 4 premiers se retrouvent dans la poule 1, les 4 suivants dans la 2, etc...
 
 POULE1 | POULE2 | POULE3 | POULE4
