@@ -28,21 +28,37 @@ Position | 1 | 2 | 3 | 4 | 5 | 6 | - | N
 -- | -- | -- | -- | -- | -- | -- | -- | --
 Point | P | P-1 | P-2 | P-3 | P-4 | P-5 | - | 1
 
->Exemple Nombre de pilotes égale à 8 (8 points à distribuer)
+>Exemple d'une course avec 8 pilotes
 
 Position | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8
 -- | -- | -- | -- | -- | -- | -- | -- | --
 Point | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1
 
-## Qualification
+## Qualification et 1er classement
 
 1 seule manche qualificative, avec 4 pilotes maximum par poules. 
 
 A l'issue de cette manche un classement est établi en fonction des chronos de chacun. Les N premiers se retrouvent dans la poule 1, les N suivants dans la 2, etc...
 
+Le classement peut s'établir au meilleur temps, au 2 meilleurs temps ou au 3 meilleurs temps au tour. C'est au choix de l'organisateur.
+
+Tableau du classement après la manche qualificative
+
+Rang | Pilotes | temps
+-- | -- | -- | --
+#1 | Pilote 1 | T1
+#2 | Pilote 2 | T2
+#3 | Pilote 3 | T3
+#-- | Pilote -- | T--
+#N | Pilote N | TN
+
 > Exemple avec 4 pilotes par poules : Les 4 premiers se retrouvent dans la poule 1, les 4 suivants dans la 2, etc...
 
-Le classement peut s'établir au meilleur temps, au 2 meilleurs temps ou au 3 meilleurs temps au tour. C'est au choix de l'organisateur.
+POULE1 | POULE2 | POULE3 | POULE4
+Pilot 1 | Pilote 5 | Pilote 9 | Pilotes 13 
+Pilot 2 | Pilote 6 | Pilote 10 | Pilote 14 
+Pilot 3 | Pilote 7 | Pilote 11 | Pilote 15 
+Pilot 4 | Pilote 8 | Pilote 12 | Pilote 16
 
 > Il correspond à peu près à un classement par niveau. Cela permettra aussi de voler avec des pilotes de même niveau tout au long de la compétition.
 
