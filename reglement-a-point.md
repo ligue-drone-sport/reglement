@@ -45,7 +45,7 @@ Le classement peut s'établir au meilleur temps, au 2 meilleurs temps ou au 3 me
 Tableau du classement après la manche qualificative
 
 Rang | Pilotes | temps
--- | -- | -- | --
+-- | -- | -- 
 #1 | Pilote 1 | T1
 #2 | Pilote 2 | T2
 #3 | Pilote 3 | T3
@@ -55,6 +55,7 @@ Rang | Pilotes | temps
 > Exemple avec 4 pilotes par poules : Les 4 premiers se retrouvent dans la poule 1, les 4 suivants dans la 2, etc...
 
 POULE1 | POULE2 | POULE3 | POULE4
+-- | -- | -- | --
 Pilot 1 | Pilote 5 | Pilote 9 | Pilotes 13 
 Pilot 2 | Pilote 6 | Pilote 10 | Pilote 14 
 Pilot 3 | Pilote 7 | Pilote 11 | Pilote 15 
