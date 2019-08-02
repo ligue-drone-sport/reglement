@@ -61,8 +61,6 @@ Pilot 2 | Pilot 6 | Pilot 10 | Pilot 14
 Pilot 3 | Pilot 7 | Pilot 11 | Pilot 15 
 Pilot 4 | Pilot 8 | Pilot 12 | Pilot 16
 
-> Il correspond à peu près à un classement par niveau. Cela permettra aussi de voler avec des pilotes de même niveau tout au long de la compétition.
-
 ## Compétition : Les manches
 
 La compétition est composée de plusieurs manches. A définir au préalable avant la compétition.
@@ -71,7 +69,7 @@ La compétition est composée de plusieurs manches. A définir au préalable ava
 
 Une manche se décompose en X groupe de 4 pilotes maximum. Exemple : 16 pilotes soit 4 groupes de 4 pilotes.
 
-#### Exemple pour une course à 16 pilotes :
+#### Exemple pour une course à 9 pilotes / 3 pilotes par poule :
 
 POULES | - | - | - | - 
 -- | -- | -- | -- | --
