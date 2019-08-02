@@ -31,6 +31,7 @@ Point | P | P-1 | P-2 | P-3 | P-4 | P-5 | - | 1
 >Exemple Nombre de pilotes égale à 8 (8 points à distribuer)
 
 Position | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8
+-- | -- | -- | -- | -- | -- | -- | -- | --
 Point | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1
 
 ## Qualification
