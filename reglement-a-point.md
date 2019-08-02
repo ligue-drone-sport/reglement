@@ -25,10 +25,10 @@ Aucune limite minimum et/ou maximum de participants n'est défini. C'est au choi
 N = Nombre de participants
 P = nombre de points (P=N)
 
-Position | 1 | 2 | 3 | 4 | 5 | 6 | ... | N
-Point | P | P-1 | P-2 | P-3 | P-4 | P-5 | ... | 1
+Position | 1 | 2 | 3 | 4 | 5 | 6 | - | N
+Point | P | P-1 | P-2 | P-3 | P-4 | P-5 | - | 1
 
->Exemple Nombre de pilotes égale à 8 (8points à distribuer)
+>Exemple Nombre de pilotes égale à 8 (8 points à distribuer)
 
 Position | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8
 Point | 8 | 7 | 6 | 5 | 4 | 3 | 2 | 1
