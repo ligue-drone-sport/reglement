@@ -69,24 +69,15 @@ Les manches suivantes se feront en fonction des points de chaque pilote.
 
 ![](images/REGL-PT-4.JPG)
 
+A l'issue de chaque manche les pilotes seront classés en fonction de leur chrono, tous groupes confondus.
+
 ![](images/REGL-PT-5.JPG)
 
-A l'issue de chaque manche les pilotes seront classés en fonction de leur chrono, tous groupes confondus. Un nombre de points leur sera alors attribué en fonction du nombre de pilote et de leur position dans le classement de cette manche. En cas d'égalité les pilotes seront départagés par leur classement en début de manche.
-
-> Exemple : Pilote X fini 1er sur 16 pilotes, il gagne 16pts. Pilote Y fini 2éme sur 16 pilotes il gagne 15pts, et ainsi de suite.
-
-> Exemple en cas d'égalité : Pilote X fini dernier ex aequo avec pilote Y. Si pilote X était 3ème au classement en debut de manche, et pilote Y 7ème. Le classement final pour Pilote X sera 15éme et pour Pilote Y 16éme.
+Un nombre de points leur sera alors attribué en fonction du nombre de pilote et de leur position dans le classement de cette manche. En cas d'égalité les pilotes seront départagés par leur classement en début de manche.
 
 Ces points viennent s'additionner aux nombres de points accumulés sur les manches précédentes, et permettent une ré-attribution des pilotes dans chaque groupe en fonction de leur total de points accumulés.
 
 ## Classement final
 
-Chaque pilote accumule des points entre chaque manche.
-
 Le classement final est établi sur le total de ces points, du plus grand nombre de points au plus petit.
 
-## Exemple de tableau
-
-![](images/tableau-a-point.png)
-
-Vous pouvez également consulter cet exemple de course : https://www.rotormatch.com/events/349-smr-cup-indoor-2-tiny-racer/races
