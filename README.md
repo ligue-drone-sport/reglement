@@ -80,7 +80,7 @@ Championnat de France |   | ✔️
 
 Le découpage des indicatifs téléphonique peut être une bonne base de départ, soit un découpage en 5 régions.
 
-![Decoupage regionale](images/decoupage-regional.png)
+![Decoupage regionale](images/DECOUPAGE_LAM_INDICTEL.png)
 
 # 3. Attribution des points pour les différents classements
 
